@@ -1,2 +1,0 @@
-source ~/.bash_profile  -> activate base environment in MinGW(git bash)
-source /e/ANACONDA/etc/profile.d/conda.sh
